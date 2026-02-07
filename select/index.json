@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "呪いは水色",
+  "base_artist": "大森靖子",
+  "createdAt": "2026-02-07T22:58:30.815767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "呪いは水色",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/01_呪いは水色_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Noroi wa Mizuiro [呪いは水色]",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/02_Noroi_wa_Mizuiro_[呪いは水色]_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "呪いは水色",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/03_呪いは水色_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "呪いは水色",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/04_呪いは水色_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "呪いは水色",
+      "artist": "大森靖子",
+      "has_synced": false,
+      "path": "select/pl_01_呪いは水色_大森靖子.txt"
+    }
+  ]
+}
